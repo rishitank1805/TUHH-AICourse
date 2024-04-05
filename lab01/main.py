@@ -6,6 +6,7 @@ from monkey_banana.banana_environment import MonkeyBananaFOEnvironmentTask, Monk
 
 def question1():
     # TODO: Question 1
+    env = Banana
     return
 
 def question2():
